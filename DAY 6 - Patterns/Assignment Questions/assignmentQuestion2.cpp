@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-
+    //Rhombus Pattern
     int n;
     cout << "Enter the Number = ";
     cin >> n;
