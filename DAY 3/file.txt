@@ -1,0 +1,5 @@
+In this session 
+I have learned multiple things like 
+typecasting :- implicit and explicit typecasting
+operators :- arithmetic operators, relational, conditional, logical operators
+Difference between the macros and constants;
